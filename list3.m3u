@@ -1,73 +1,305 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB1 Acompanhe a Casa FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB1 Acompanhe a Casa FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179431
-#EXTINF:-1 tvg-id="" tvg-name="BBB1 Acompanhe a Casa HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB1 Acompanhe a Casa HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147453
-#EXTINF:-1 tvg-id="" tvg-name="BBB1 Acompanhe a Casa SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB1 Acompanhe a Casa SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83802
-#EXTINF:-1 tvg-id="" tvg-name="BBB2 Acompanhe a Casa FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB2 Acompanhe a Casa FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179433
-#EXTINF:-1 tvg-id="" tvg-name="BBB2 Acompanhe a Casa HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB2 Acompanhe a Casa HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179432
-#EXTINF:-1 tvg-id="" tvg-name="BBB2 Acompanhe a Casa SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB2 Acompanhe a Casa SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/164580
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Mosaico FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179435
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Mosaico HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179434
-#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Mosaico SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/155342
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro Pantene FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Banheiro Pantene FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147549
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro Pantene HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Banheiro Pantene HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/164574
-#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro Pantene SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Banheiro Pantene SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/140730
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha Delícia FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83799
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha Delícia HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83792
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Delícia SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha Delícia SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83437
-#EXTINF:-1 tvg-id="" tvg-name="BBB Jardim FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Jardim FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/148000
-#EXTINF:-1 tvg-id="" tvg-name="BBB Jardim HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Jardim HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/163607
-#EXTINF:-1 tvg-id="" tvg-name="BBB Jardim SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Jardim SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/191635
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Piscina FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/150203
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Piscina HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147671
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Piscina SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147992
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83785
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/162909
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Cozinha SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147996
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Sala FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/176733
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Sala HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147537
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Sala SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147532
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Gnomo FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/83527
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Gnomo HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/154679
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Gnomo SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Gnomo SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/140731
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Fada FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Fada FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179428
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Fada HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Fada HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179437
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Fada SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Fada SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179436
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Magia FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Magia FHD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/147452
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Magia HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Magia HD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/164579
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Magia SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB Quarto Magia SD
-http://srv.cldplay.net:80/Ranelson995595629/xkb536sd/179429
+#EXTCPlayListM3U::M3U
+#EXTINF:0,GLOBO SP HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/741
+#EXTINF:0,GLOBO SP SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/492
+#EXTINF:0,GLOBO RJ FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/362
+#EXTINF:0,GLOBO RJ H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76673
+#EXTINF:0,AMC FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/840
+#EXTINF:0,BAND SP HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/324
+#EXTINF:0,BAND SP SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/450
+#EXTINF:0,CINE SKY 1
+http://bccdn.xyz:80/56987348392pw/9743853903pw/686
+#EXTINF:0,CINE SKY 2
+http://bccdn.xyz:80/56987348392pw/9743853903pw/687
+#EXTINF:0,CINE SKY 3
+http://bccdn.xyz:80/56987348392pw/9743853903pw/688
+#EXTINF:0,CINE SKY 4
+http://bccdn.xyz:80/56987348392pw/9743853903pw/689
+#EXTINF:0,CINE SKY 5
+http://bccdn.xyz:80/56987348392pw/9743853903pw/690
+#EXTINF:0,CAZE TV 1
+http://bccdn.xyz:80/56987348392pw/9743853903pw/90526
+#EXTINF:0,DISCOVERY H&H FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/807
+#EXTINF:0,DISCOVERY H&H H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/226
+#EXTINF:0,DISCOVERY H&H HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/14
+#EXTINF:0,DISCOVERY H&H SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/465
+#EXTINF:0,DISCOVERY TURBO FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/818
+#EXTINF:0,DISCOVERY TURBO H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/230
+#EXTINF:0,PRIME VIDEO 1 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/83809
+#EXTINF:0,PRIME VIDEO 2 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/83810
+#EXTINF:0,PRIME VIDEO 3 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/83811
+#EXTINF:0,PRIME VIDEO 4 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/83812
+#EXTINF:0,GLOBOPLAY+ 01
+http://bccdn.xyz:80/56987348392pw/9743853903pw/85879
+#EXTINF:0,GLOBOPLAY+ 02
+http://bccdn.xyz:80/56987348392pw/9743853903pw/85880
+#EXTINF:0,PARAMOUNT+ 1 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/96812
+#EXTINF:0,PARAMOUNT+ 2 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/96813
+#EXTINF:0,PARAMOUNT+ 3 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/96814
+#EXTINF:0,PARAMOUNT+ 4 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/96815
+#EXTINF:0,GLOBO EPTV CAMPINAS FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/364
+#EXTINF:0,GLOBO EPTV CAMPINAS HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/363
+#EXTINF:0,ESPN FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/769
+#EXTINF:0,ESPN H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/238
+#EXTINF:0,ESPN HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/435040
+#EXTINF:0,ESPN SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/477
+#EXTINF:0,ESPN 2 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/771
+#EXTINF:0,ESPN 2 H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/236
+#EXTINF:0,ESPN 2 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/434330
+#EXTINF:0,ESPN 2 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/432374
+#EXTINF:0,ESPN 3 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/772
+#EXTINF:0,ESPN 3 H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/237
+#EXTINF:0,ESPN 3 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/23
+#EXTINF:0,ESPN 3 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/476
+#EXTINF:0,ESPN 4 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/89168
+#EXTINF:0,ESPN 4 4K
+http://bccdn.xyz:80/56987348392pw/9743853903pw/89169
+#EXTINF:0,ESPN 4 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/89170
+#EXTINF:0,ESPN 4 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/89167
+#EXTINF:0,ESPN EXTRA FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/770
+#EXTINF:0,ESPN EXTRA H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/235
+#EXTINF:0,ESPN EXTRA HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/26
+#EXTINF:0,ESPN EXTRA SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76661
+#EXTINF:0,FOOD  NETWORK FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/863
+#EXTINF:0,FOOD NETWORK H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/240
+#EXTINF:0,FOOD NETWORK HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/27
+#EXTINF:0,FOOD NETWORK SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/480
+#EXTINF:0,FOX SPORTS 2 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/773
+#EXTINF:0,FOX SPORTS 2 H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/245
+#EXTINF:0,FOX SPORTS 2 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/32
+#EXTINF:0,FOX SPORTS 2 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/484
+#EXTINF:0,FURACAO TV (01)
+http://bccdn.xyz:80/56987348392pw/9743853903pw/200
+#EXTINF:0,HBO MAX 01
+http://bccdn.xyz:80/56987348392pw/9743853903pw/78527
+#EXTINF:0,HBO FAMILY FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/795
+#EXTINF:0,HBO FAMILY HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/40
+#EXTINF:0,HBO FAMILY SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/496
+#EXTINF:0,HBO FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/792
+#EXTINF:0,HBO H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/251
+#EXTINF:0,HBO HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/41
+#EXTINF:0,HBO SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/495
+#EXTINF:0,HBO MAX 02
+http://bccdn.xyz:80/56987348392pw/9743853903pw/204
+#EXTINF:0,HBO MAX 03
+http://bccdn.xyz:80/56987348392pw/9743853903pw/205
+#EXTINF:0,HBO MAX 04
+http://bccdn.xyz:80/56987348392pw/9743853903pw/206
+#EXTINF:0,HBO MAX 05
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76696
+#EXTINF:0,HBO MAX 06
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76697
+#EXTINF:0,HBO MAX 07
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76698
+#EXTINF:0,HBO MAX 08
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76699
+#EXTINF:0,HBO MAX 09
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76700
+#EXTINF:0,HBO MUNDI FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/797
+#EXTINF:0,JOVEM PAN FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/886
+#EXTINF:0,JOVEM PAN FHD H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76659
+#EXTINF:0,PARAMOUNT FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/845
+#EXTINF:0,PARAMOUNT FHD H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/272
+#EXTINF:0,PARAMOUNT HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/60
+#EXTINF:0,PARAMOUNT SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/519
+#EXTINF:0,PREMIERE CLUBES  H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/273
+#EXTINF:0,PREMIERE CLUBES H265*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88561
+#EXTINF:0,PREMIERE CLUBES FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/775
+#EXTINF:0,PREMIERE CLUBES FHD*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88559
+#EXTINF:0,PREMIERE CLUBES HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/67
+#EXTINF:0,PPREMIERE CLUBES HD*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88560
+#EXTINF:0,PREMIERE CLUBES SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/531
+#EXTINF:0,SPORTV H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/285
+#EXTINF:0,SPORTV H265*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88558
+#EXTINF:0,SPORTV HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/73
+#EXTINF:0,SPORTV HD*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/87150
+#EXTINF:0,SPORTV SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/544
+#EXTINF:0,SPORTV SD*
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88557
+#EXTINF:0,SPORTV 2 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/777
+#EXTINF:0,SPORTV 2 H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/283
+#EXTINF:0,SPORTV 2 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/71
+#EXTINF:0,SPORTV 2 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/545
+#EXTINF:0,SPORTV 3 FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/778
+#EXTINF:0,SPORTV 3 H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/284
+#EXTINF:0,SPORTV 3 HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/72
+#EXTINF:0,SPORTV 3 SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/546
+#EXTINF:0,STAR + 2
+http://bccdn.xyz:80/56987348392pw/9743853903pw/202
+#EXTINF:0,STAR + 3
+http://bccdn.xyz:80/56987348392pw/9743853903pw/207
+#EXTINF:0,STAR + 4
+http://bccdn.xyz:80/56987348392pw/9743853903pw/208
+#EXTINF:0,STAR CHANNEL FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/836
+#EXTINF:0,STAR CHANNEL H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/241
+#EXTINF:0,STAR CHANNEL HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/28
+#EXTINF:0,STAR CHANNEL SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/481
+#EXTINF:0,TNT NOVELAS FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/856
+#EXTINF:0,TNT NOVELAS FHD H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/288
+#EXTINF:0,TNT NOVELAS HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/76
+#EXTINF:0,TNT NOVELAS SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/549
+#EXTINF:0,TCM FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/877
+#EXTINF:0,TCM HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/131
+#EXTINF:0,TCM SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/550
+#EXTINF:0,TELECINE ACTION FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/787
+#EXTINF:0,TELECINE ACTION H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/289
+#EXTINF:0,TELECINE ACTION HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/77
+#EXTINF:0,TELECINE ACTION SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/551
+#EXTINF:0,TELECINE CULT FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/791
+#EXTINF:0,TELECINE CULT H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/290
+#EXTINF:0,TELECINE CULT HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/78
+#EXTINF:0,TELECINE CULT SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/552
+#EXTINF:0,TELECINE FUN FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/790
+#EXTINF:0,TELECINE FUN H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/291
+#EXTINF:0,TELECINE FUN HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/79
+#EXTINF:0,TELECINE FUN SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/553
+#EXTINF:0,TELECINE PIPOCA FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/789
+#EXTINF:0,TELECINE PIPOCA H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/292
+#EXTINF:0,TELECINE PIPOCA HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/80
+#EXTINF:0,TELECINE PIPOCA SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/554
+#EXTINF:0,TELECINE PREMIUM FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/786
+#EXTINF:0,TELECINE PREMIUM H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/293
+#EXTINF:0,TELECINE PREMIUM HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/81
+#EXTINF:0,TELECINE PREMIUM SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/555
+#EXTINF:0,TELECINE TOUCH FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/788
+#EXTINF:0,TELECINE TOUCH H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/294
+#EXTINF:0,TELECINE TOUCH HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/82
+#EXTINF:0,TELECINE TOUCH SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/556
+#EXTINF:0,TNT SERIES FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/849
+#EXTINF:0,TNT SERIES FHD H265
+http://bccdn.xyz:80/56987348392pw/9743853903pw/297
+#EXTINF:0,TNT SERIES HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/85
+#EXTINF:0,TOONCAST FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/834
+#EXTINF:0,TOONCAST HD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/124
+#EXTINF:0,TOONCAST SD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/561
+#EXTINF:0,CINE FAROESTE
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88962
+#EXTINF:0,CINE DISNEY
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88963
+#EXTINF:0,CINE TRAPALHOES
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88965
+#EXTINF:0,CINE SESSÃO DA TARDE
+http://bccdn.xyz:80/56987348392pw/9743853903pw/88966
